@@ -18,7 +18,7 @@
     "test": "yarn run ember try:each"
   },
   "dependencies": {
-    "ember-cli-babel": "6.0.0"
+    "ember-cli-babel": "6.4.0"
   },
   "devDependencies": {
     "broccoli-asset-rev": "2.5.0",
